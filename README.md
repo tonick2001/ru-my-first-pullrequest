@@ -1,4 +1,3 @@
-# ГЫГЫ)
 
 <h1>Hello, Hexlet!</h1>
 
